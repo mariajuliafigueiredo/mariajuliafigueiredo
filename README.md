@@ -1,58 +1,27 @@
 # Hi, I'm Júlia! 👋
 
-### Technology, Logistics & Software Development
+### Technology | Logistics | Software Development
 
-I'm a Systems Analysis and Development graduate with an interest in technology, problem-solving and the way digital solutions can improve everyday business operations.
+I'm a Systems Analysis and Development graduate currently working in the transportation and logistics sector.
 
-Currently, I'm working in the transportation and logistics sector, where I have the opportunity to understand operational processes, shipment management and the systems that support logistics activities.
-
-This experience has made me increasingly curious about the connection between technology and logistics. I enjoy exploring how software, data and well-designed systems can simplify processes, improve efficiency and solve real-world problems.
-
-My technical background includes C#, .NET, React, TypeScript and SQL. I'm continuously developing my skills through personal projects and hands-on learning, with a particular interest in building applications that connect technology with real business needs.
-
----
+I'm interested in how technology can improve business processes and logistics operations, combining my technical background with my experience in the industry.
 
 ## 🛠️ Technologies & Tools
 
-**Languages & Backend**
+- **Backend:** C#, .NET, ASP.NET Core
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
+- **Database & APIs:** SQL Server, REST APIs
+- **Tools:** Git, GitHub, Swagger, Salesforce CRM, Zendesk
 
-C# · .NET · ASP.NET Core · JavaScript · TypeScript
+## 🚀 Current Project
 
-**Frontend**
+**LogiTrack** — A shipment management and tracking application, exploring the intersection of software development and logistics.
 
-React · HTML · CSS
+## 🌱 Areas of Interest
 
-**Databases & APIs**
-
-SQL Server · REST APIs · Swagger
-
-**Tools & Platforms**
-
-Git · GitHub · Salesforce CRM · Zendesk
-
----
-
-## 🚀 What I'm Working On
-
-I'm currently developing **LogiTrack**, a personal project focused on shipment management and tracking.
-
-The idea is to explore how software development can be applied to real logistics scenarios, combining my technical background with the knowledge I'm gaining from working in the transportation sector.
-
-I'm also continuing to develop my skills in software architecture, database design and application development.
-
----
-
-## 🌱 Areas I'm Interested In
-
-I'm particularly interested in Logistics Technology, Business Analysis, ERP Systems, Supply Chain Management and Process Optimization.
-
-I believe that understanding both the technical and operational sides of a business is essential to building meaningful digital solutions.
-
----
+Logistics Technology · Business Analysis · ERP Systems · Supply Chain · Process Optimization
 
 ## 📫 Let's Connect!
-
-I'm always interested in learning, sharing ideas and connecting with people working in technology and logistics.
 
 [LinkedIn](https://www.linkedin.com/in/julia-figueiredo/)
 
