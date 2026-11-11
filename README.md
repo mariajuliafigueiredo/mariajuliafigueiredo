@@ -1,6 +1,24 @@
-# Olá, eu sou a Júlia Figueiredo! 👋
+Hi, I'm Júlia! 👋
+Technology | Logistics | Software Development
 
-Graduada em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente focada em desenvolvimento Full-Stack com C#, .NET, React, TypeScript e SQL. Também possuo bagagem com Salesforce CRM e suporte em ambientes multinacionais.
+🎓 Systems Analysis and Development Graduate.
+
+🚚 Interested in logistics technology, business processes and digital solutions.
+
+💻 Currently developing projects using C#, .NET, React and SQL.
+
+Technical Skills
+- Backend: C#, ASP.NET Core
+- Frontend: React, TypeScript, JavaScript
+- Database: SQL Server
+- Tools: Git, GitHub, Swagger
+Currently working on
+
+LogiTrack — a shipment management and tracking application.
+
+Areas of interest
+
+Logistics Technology · Business Analysis · ERP Systems · Process Optimization
 
 ## 🛠️ Tecnologias & Competências
 - **Back-end:** C#, .NET, SQL, APIs REST
