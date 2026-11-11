@@ -23,7 +23,7 @@ Logistics Technology · Business Analysis · ERP Systems · Supply Chain · Proc
 
 ## 📫 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/julia-figueiredo/)
+[LinkedIn](https://www.linkedin.com/in/julia-gfigueiredo/)
 
 
 ![Snake Game](https://raw.githubusercontent.com/mariajuliafigueiredo/mariajuliafigueiredo/output/github-contribution-grid-snake-dark.svg)
