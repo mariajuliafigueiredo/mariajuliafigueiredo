@@ -1,4 +1,4 @@
-Hi, I'm Júlia! 👋
+## Hi, I'm Júlia! 👋
 Technology | Logistics | Software Development
 
 🎓 Systems Analysis and Development Graduate.
