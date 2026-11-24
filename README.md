@@ -17,7 +17,7 @@ I'm particularly interested in how technology, data, and digital solutions can i
 
 ## 🚀 Current Project
 
-**LogiTrack** — A shipment management and tracking application focused on exploring how software solutions can support logistics operations, shipment visibility, and process efficiency.
+**ShipTrack** — A shipment management and tracking application focused on exploring how software solutions can support logistics operations, shipment visibility, and process efficiency.
 
 ## 🌱 Areas of Interest
 
